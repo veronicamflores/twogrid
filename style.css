@@ -1,3 +1,7 @@
+body{
+    color: gray;
+    font-weight:lighter;
+}
 .bg-blue{
     background-color: #3079AB;
     color: white;
@@ -8,4 +12,11 @@
     box-shadow: 1px 1px 2px #e7e7e7;
     border-radius: 4px;
     margin:20px 50px;
+}
+.m-1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.p-2{
+    padding-top: 2rem;
 }
